@@ -146,3 +146,35 @@ main section{
     box-shadow: 0px 6px 50px 0px rgb(0, 0, 0, 0.06);
     border-radius: 5px;
 }
+
+/* Resume section style */
+
+.resume-column{
+    display: flex;
+    gap: 24px;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin:20px;
+    
+}
+.experience-description{
+    color: #757575;
+}
+
+.resume-download-cv{
+    margin-top: 50px;
+}
+
+/* Footer Styles */
+
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+.footer-colmun{
+    width: 50%;
+}
